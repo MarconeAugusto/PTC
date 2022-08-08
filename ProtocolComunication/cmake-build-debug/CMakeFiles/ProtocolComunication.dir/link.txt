@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ProtocolComunication.dir/main.cpp.o CMakeFiles/ProtocolComunication.dir/Serial.cpp.o CMakeFiles/ProtocolComunication.dir/Framming.cpp.o  -o ProtocolComunication 
